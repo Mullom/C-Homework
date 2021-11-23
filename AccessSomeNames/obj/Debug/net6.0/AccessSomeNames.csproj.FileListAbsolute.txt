@@ -1,0 +1,16 @@
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\bin\Debug\net6.0\AccessSomeNames.exe
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\bin\Debug\net6.0\AccessSomeNames.deps.json
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\bin\Debug\net6.0\AccessSomeNames.runtimeconfig.json
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\bin\Debug\net6.0\AccessSomeNames.dll
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\bin\Debug\net6.0\ref\AccessSomeNames.dll
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\bin\Debug\net6.0\AccessSomeNames.pdb
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.GlobalUsings.g.cs
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.csproj.AssemblyReference.cache
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.AssemblyInfoInputs.cache
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.AssemblyInfo.cs
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.csproj.CoreCompileInputs.cache
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.dll
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\ref\AccessSomeNames.dll
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.pdb
+C:\Users\student.CTESTULT-C319\source\repos\AccessSomeNames\obj\Debug\net6.0\AccessSomeNames.genruntimeconfig.cache

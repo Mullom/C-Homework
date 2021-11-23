@@ -1,0 +1,16 @@
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.exe
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.deps.json
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.runtimeconfig.json
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.dll
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\bin\Debug\net6.0\ref\DiscountDelegateDemo.dll
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.pdb
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.GlobalUsings.g.cs
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.csproj.AssemblyReference.cache
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.AssemblyInfoInputs.cache
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.AssemblyInfo.cs
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.dll
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\ref\DiscountDelegateDemo.dll
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.pdb
+C:\Users\student.CTESTULT-C319\OneDrive\C#\ch 13\DiscountDelegateDemo\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.genruntimeconfig.cache

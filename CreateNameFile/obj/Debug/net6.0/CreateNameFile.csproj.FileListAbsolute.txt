@@ -1,0 +1,16 @@
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\bin\Debug\net6.0\CreateNameFile.exe
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\bin\Debug\net6.0\CreateNameFile.deps.json
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\bin\Debug\net6.0\CreateNameFile.runtimeconfig.json
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\bin\Debug\net6.0\CreateNameFile.dll
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\bin\Debug\net6.0\ref\CreateNameFile.dll
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\bin\Debug\net6.0\CreateNameFile.pdb
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.GlobalUsings.g.cs
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.csproj.AssemblyReference.cache
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.AssemblyInfoInputs.cache
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.AssemblyInfo.cs
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.csproj.CoreCompileInputs.cache
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.dll
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\ref\CreateNameFile.dll
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.pdb
+C:\Users\student.CTESTULT-C319\source\repos\CreateNameFile\obj\Debug\net6.0\CreateNameFile.genruntimeconfig.cache
